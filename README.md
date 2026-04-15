@@ -29,5 +29,5 @@ This website is developed as a practice and academic project to demonstrate fron
 ##  Deployment
 The website can be deployed using Netlify or GitHub Pages.
 
-## 👨‍💻 Author
+##  Author
 Anas Bukhari
